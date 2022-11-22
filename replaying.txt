@@ -1,0 +1,37 @@
+	address ,i ,em,cite - doing the same work : hamisi yazini eyri yazir ;
+sub-yazini altdan yazir;
+sup-yazini yuxaridan yazir;
+strong , b - eyni isi gorur ikiside qalin 
+abbr - sozun altindan qara-qara noqteler qoyur sozu ozullesdirir;
+<q> sozleri dirnaq icerisinde verir</q>
+
+blockquote- her hansi yazi yazarken evvelde abzas buraxir;
+bdo dir="rtl"- soz yazilarken soldan deyilde sagdan yazilir;
+
+
+<<HTML Quotations- sonlandi >>
+bennetfeely.com sekil cut elemek ucun
+padding icerden boyutmek
+margin colden boyuk
+gradient bir nece rengin birlesmesi
+ui gradient
+figma.com
+
+
+
+taskin gedisi
+1-background color
+2-form yarat
+
+
+id class teqler
+
+
+sekilleri duzeltmek
+iconu duzeltmek
+logonu duzeltmek
+
+
+
+
+
